@@ -1,6 +1,6 @@
 # Laboratorio 02 - Arquitectura de Software
 
-Este repositorio contiene los archivos del Laboratorio 02, incluyendo modelos en OCL (Object Constraint Language) y una implementación de referencia en Python con pruebas unitarias.
+Por: José Alexander Alas Leiva - 20245387
 
 ## Requisitos
 
@@ -40,7 +40,7 @@ Para ejecutar las pruebas unitarias y verificar la lógica de negocio:
     ```bash
     cd python
     ```
-2.  Ejecutar las pruebas con `unittest`:
+2.  Ejecutar las pruebas con `unittest` (escogido por la facilidad de uso y output directo y simple):
     ```bash
     python -m unittest tests/test_reservas.py
     ```
